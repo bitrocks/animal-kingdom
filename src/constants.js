@@ -16,7 +16,13 @@ export const ANIMALS = [
     id: 'lion',
     name: 'Lion',
     superpower: 'Roaring loudly.'
-  }]
+  },
+  {
+     id: 'horse',
+     name: 'Horse',
+     superpower: "Running fast."
+  }
+]
 
 export const TERRITORIES = [
   {
@@ -28,6 +34,11 @@ export const TERRITORIES = [
     id: 'tundra',
     name: 'Tundra',
     superpower: 'Let it snow!'
+  },
+  {
+     id: 'grassland',
+     name: 'Grassland',
+     superpower: 'Flat and green!',
   }
 ]
 
